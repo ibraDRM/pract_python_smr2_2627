@@ -25,4 +25,4 @@ if len(notas) > 0:
     print("¿No hay ningún cero?:", all(nota != 0 for nota in notas))
 
 else:
-    print("No se han introducido notas.")
+    print("No se han introducido notas.") 
